@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align = "center">
 
 ![HyeminBaek's github stats](https://github-readme-stats.vercel.app/api?username=HyeminBaek&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminBaek&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeminBaek&hide=jupyter%20notebook&layout=compact)
   
   [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
   
