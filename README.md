@@ -6,7 +6,7 @@
 </div>
  
 <div align = "center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=AaCR-LcVgXucjkeO80mdDxDR0BF8_x_bLrjrAzrWr5I_mBkaCRqxc0M" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=AaCR-LcVgXucjkeO80mdDxDR0BF8_x_bLrjrAzrWr5I_mBkaCRqxc0M" height="359" width="345" frameborder="0" scrolling="no" ></img>
 </div>
 
 <div align ="center">
