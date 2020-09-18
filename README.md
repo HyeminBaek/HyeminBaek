@@ -13,6 +13,6 @@
 <div align = "center">
 
 ![HyeminBaek's github stats](https://github-readme-stats.vercel.app/api?username=HyeminBaek&theme=dark&show_icons=true)
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
   
 </div>
