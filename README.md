@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNuung&count_bg=%235ECAF1&title_bg=%23555555&icon=discord.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
           
