@@ -10,9 +10,11 @@
 </div>
 
 <div align ="center">
+ </br></br></br>
  <p>
- *&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;&    +    *    #    @    กʕ•͡ᴥ•ʔ ก    %    &    +    *    #    @    &    +    *
+ *&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;กʕ•͡ᴥ•ʔ ก&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*
  </p>
+ </br></br></br>
 </div>
 
 <div align = "center">
