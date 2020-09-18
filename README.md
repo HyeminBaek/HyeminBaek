@@ -10,7 +10,7 @@
 </div>
 
 <div align ="center">
- <b>* * * * * * * * * * *</b>
+ <b>  *  #  @  กʕ•͡ᴥ•ʔ ก  %  &  +</b>
 </div>
 
 <div align = "center">
