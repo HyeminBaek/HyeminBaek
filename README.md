@@ -11,7 +11,7 @@
 
 <div align ="center">
  
- <b>&nbsp;&nbsp;&nbsp;*&nbsp;#  @  %  &  +  *  #  @  กʕ•͡ᴥ•ʔ ก  %  &  +  *  #  @  &  +  *&nbsp;&nbsp;&nbsp;</b>
+ <b>&nbsp;&nbsp;&nbsp;*    #    @    %    &    +    *    #    @    กʕ•͡ᴥ•ʔ ก    %    &    +    *    #    @    &    +    *&nbsp;&nbsp;&nbsp;</b>
 </div>
 
 <div align = "center">
