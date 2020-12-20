@@ -13,7 +13,8 @@
  </br></br></br>
  <p>
  /&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;กʕ•͡ᴥ•ʔ ก&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;-
- </p>
+https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93
+</p>
  </br></br></br>
 </div>
 
