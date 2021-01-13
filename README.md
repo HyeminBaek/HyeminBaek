@@ -13,17 +13,14 @@
  </br></br></br>
 ## experienced
 </div>
-
+<div>
  ``` DB mySQL ``` ``` PROGRAMING LANGUAGE  C++,JAVA,Python ```
  ``` TOOLS slack,zira,visual studio,git ```
- 
- <p>
- 
+</div>
  <p>
 <--https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93-->
 </p>
  </br></br></br>
-</div>
 
 <div align = "center">
  
