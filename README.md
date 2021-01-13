@@ -9,9 +9,9 @@
   <img src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif" ></img>
 </div>
 
-<div align ="right">
+<div align ="left">
  </br></br></br>
-## experienced
+### experienced
 
  ``` DB mySQL ``` ``` PROGRAMING LANGUAGE  C++,JAVA,Python ```
  ``` TOOLS slack,zira,visual studio,git ```
