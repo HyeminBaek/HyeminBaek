@@ -11,10 +11,10 @@
 
 <div align ="center">
  </br></br></br>
- <p>
+
  ``` DB mySQL ``` ``` PROGRAMING LANGUAGE C++,JAVA,Python ```
  ``` TOOLS slack,zira,visual studio,git,```
- </p>
+ 
  <p>
  
  <p>
