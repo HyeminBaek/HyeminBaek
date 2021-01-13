@@ -12,19 +12,20 @@
 <div align ="center">
  </br></br></br>
  <p>
- /&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;กʕ•͡ᴥ•ʔ ก&nbsp;&nbsp;&nbsp;%&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;-
+ experienced :
+ DB mySQL
+ PROGRAMING LANGUAGE C++,JAVA,Python
+ TOOLS slack,zira,visual studio,git,
  </p>
  <p>
- <li>
-  experienced : 1)DB mySQL&nbsp2)PROGRAMING&nbspLANGUAGES&nbspC++,Java,Python&nbsp3)TOOLS 
+ 
  <p>
-https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93
+<--https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93-->
 </p>
  </br></br></br>
 </div>
 
 <div align = "center">
- 
 ![HyeminBaek's github stats](https://github-readme-stats.vercel.app/api?username=HyeminBaek&theme=light&show_icons=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
 </div>
