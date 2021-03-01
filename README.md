@@ -28,5 +28,5 @@
 <div align = "center">
  
 ![HyeminBaek's github stats](https://github-readme-stats.vercel.app/api?username=HyeminBaek&theme=light&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhm7266)](https://solved.ac/bhm7266)
 </div>
