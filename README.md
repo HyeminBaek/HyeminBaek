@@ -14,9 +14,21 @@
  
 # experienced
 
- ``` DB mySQL ``` ``` PROGRAMING LANGUAGE  C++,JAVA,Python ```
- ``` TOOLS slack,zira,visual studio,git ```
+ ``` DB ```
+ <li> mySQL을 사용해본 적 있으며, 기본적인 조인 연산을 이용해 SQL 쿼리문을 작성할 수 있습니다.
  
+ ``` PROGRAMING LANGUAGE ```
+<li> C++
+ 
+<li> JAVA
+<li> Python
+
+ ``` TOOLS ```
+ <li>slack,zira,visual studio,git
+ 
+ # certificate
+ <li> 20.12.31 정보처리기사 취득
+
  # notion link
  
  <p>
