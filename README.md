@@ -15,7 +15,7 @@
 # experienced
 
  ``` DB ```
- <li> mySQL을 사용해본 적 있으며, RDB SQL 쿼리문을 작성할 수 있습니다.
+ <li> 주로 mySQL을 사용하며, RDB 설계 및 SQL 쿼리문을 작성할 수 있습니다.
  
  ``` PROGRAMING LANGUAGE ```
 <li> C++
