@@ -15,7 +15,7 @@
 # experienced
 
  ``` DB ```
- <li> 주로 mySQL을 사용하며, RDB 설계 및 SQL 쿼리문을 작성할 수 있습니다.
+ <li> mySQL
  
  ``` PROGRAMING LANGUAGE ```
 <li> C++
@@ -34,7 +34,7 @@
  <p>
 <--https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93-->
 </p>
- hello
+
  </br></br></br>
 </div>
 <div align = "center">
