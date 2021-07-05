@@ -26,13 +26,16 @@
  ``` TOOLS ```
  <li>slack,zira,visual studio,git
  
+ ```SSAFY 6기```
+ 
  # certificate
  <li> 20.12.31 정보처리기사 취득
-
+ <li> 21.06.25 SQLD 취득
+  
  # notion link
  
  <p>
-<--https://www.notion.so/c57ac4ef5ec048c9bdb45de2814bfc93-->
+펑
 </p>
 
  </br></br></br>
